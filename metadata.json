@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Generator",
+  "description": "An application that uses Gemini to automatically create an educational and engaging video presentation from a user-provided topic, complete with generated images and voice narration.",
+  "requestFramePermissions": []
+}
